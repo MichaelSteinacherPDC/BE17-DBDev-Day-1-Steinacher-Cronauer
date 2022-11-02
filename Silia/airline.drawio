@@ -108,4 +108,27 @@
             </root>
         </mxGraphModel>
     </diagram>
+    <diagram name="Page-3" id="DOENlWuPaowcKn1afmeh">
+        <mxGraphModel dx="1356" dy="706" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+            <root>
+                <mxCell id="CD4TNRw7sIohugtw5bqx-0"/>
+                <mxCell id="CD4TNRw7sIohugtw5bqx-1" parent="CD4TNRw7sIohugtw5bqx-0"/>
+                <mxCell id="CD4TNRw7sIohugtw5bqx-29" value="planes" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;sketch=0;hachureGap=4;fontFamily=Helvetica;fontSize=13;" vertex="1" parent="CD4TNRw7sIohugtw5bqx-1">
+                    <mxGeometry x="100" y="150" width="140" height="130" as="geometry"/>
+                </mxCell>
+                <mxCell id="CD4TNRw7sIohugtw5bqx-30" value="reg_num: int" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;sketch=0;hachureGap=4;fontFamily=Helvetica;fontSize=13;" vertex="1" parent="CD4TNRw7sIohugtw5bqx-29">
+                    <mxGeometry y="26" width="140" height="26" as="geometry"/>
+                </mxCell>
+                <mxCell id="CD4TNRw7sIohugtw5bqx-31" value="manufacturer: varchar" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;sketch=0;hachureGap=4;fontFamily=Helvetica;fontSize=13;" vertex="1" parent="CD4TNRw7sIohugtw5bqx-29">
+                    <mxGeometry y="52" width="140" height="26" as="geometry"/>
+                </mxCell>
+                <mxCell id="CD4TNRw7sIohugtw5bqx-32" value="model: varchar" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;sketch=0;hachureGap=4;fontFamily=Helvetica;fontSize=13;" vertex="1" parent="CD4TNRw7sIohugtw5bqx-29">
+                    <mxGeometry y="78" width="140" height="26" as="geometry"/>
+                </mxCell>
+                <mxCell id="QV0b4C28BXh_ZvJsieV6-0" value="model: varchar" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;sketch=0;hachureGap=4;fontFamily=Helvetica;fontSize=13;" vertex="1" parent="CD4TNRw7sIohugtw5bqx-29">
+                    <mxGeometry y="104" width="140" height="26" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
 </mxfile>
