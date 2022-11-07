@@ -41,3 +41,15 @@ select author.first_name, author.last_name, books.title, books.price, buy.buy_da
 join books on books.fk_author_id = author.author_id
 join buy on buy.fk_book_id = books.book_id
 Where books.price > ( select AVG(books.price) from books);
+
+/* 
+Other things 
+_____________________________*/
+
+-- Count how many records in a table 
+select COUNT(patient_id) from patients;
+
+-- patients info for patients that first name starts with letter M
+select * from patients
+Where first_name LIKE "M%";
+
